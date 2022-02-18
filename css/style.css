@@ -9,6 +9,11 @@ body{
     background-size: cover;
     height: 70vh;
 }
+.jumbotron1{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 70vh;
+}
 
 .about p{
     line-height: 10vh;
