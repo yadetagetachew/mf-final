@@ -43,6 +43,23 @@ body{
 
     
 
+.pic2{
+    position: absolute;
+    width: 40%;
+    left: 91vh;
+    top: 480vh;
+}
+.pic4{
+    position: absolute;
+    width: 40%;
+    left: 91vh;
+    top: 620vh;
+}
+.pic3{
+    position: absolute;
+    width: 40%;
+    left: 91vh;
+    top: 550vh;
 }
 
 .about p{
