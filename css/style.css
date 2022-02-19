@@ -34,12 +34,10 @@ body{
    font-size: 3vh;
 }
 .navbar a:hover{
-    background-color: rgb(155, 10, 39);
+    background-color: rgb(200, 0, 40);
 }
 .navbar-brand:not(hover){
-    -webkit-filter: grayscale(1);
-          filter: grayscale(2);
-        opacity: .75;
+          filter: grayscale(1);
     font-size: 4vh;
 }
 
